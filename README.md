@@ -56,4 +56,4 @@ Make sure your webcam is enabled. The notebook supports real-time predictions us
 
 ## 📬 Contact
 
-Feel free to connect or ask questions on [LinkedIn](https://www.linkedin.com).
+Feel free to connect or ask questions on [LinkedIn](https://www.linkedin.com/in/Nurzhek).
